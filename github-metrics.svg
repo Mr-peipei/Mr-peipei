@@ -323,7 +323,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="240.0641663520855" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="240.0641663520855" y="0" width="79.22478861677278" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="319.28895496885826" y="0" width="58.21708948897465" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="319.28895496885826" y="0" width="58.21708948897465" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="377.5060444578329" y="0" width="49.466912607745485" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="426.9729570655784" y="0" width="16.99539327133667" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="443.968350336915" y="0" width="9.489770228581403" height="8" fill="#e34c26"/>
@@ -345,7 +345,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2098,7 +2098,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 21:10:44 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 22:12:52 (timezone Asia/Tokyo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
